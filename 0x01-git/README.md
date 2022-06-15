@@ -1,1 +1,1 @@
-My second readme
+This is ALX-pre_course.git
